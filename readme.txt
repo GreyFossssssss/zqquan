@@ -25,3 +25,4 @@
 22.$ git push origin zqquan//把修改的文件加入到zqquan分支
 23.$ git merge master //把master的代码覆盖到zqquan分支
 24. git checkout test  git merge 你的分支  --squash   --squash的作用就是把本分支的多次提交合并成一次提交
+25.git push --set-upstream origin feature_dietdetail 建立一个远程分支
